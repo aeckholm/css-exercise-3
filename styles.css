@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+
+.first{
+    background-color: #faad87;
+}
+
+.wrapper{
+    max-width: 600px;
+    margin: auto;
+    padding: 10px;
+}
+
+.main{
+    background-color:aqua;
+}
+
+
+.footer{
+    background-color: bisque;
+}
